@@ -86,3 +86,56 @@
 ---
 
 *Stay consistent. You've got this! 💪*
+
+---
+
+## 📖 Abbreviations Key
+
+| Abbreviation | Meaning |
+|--------------|---------|
+| **alt** | alternating |
+| **AMRAP** | As Many Rounds/Reps As Possible |
+| **AS** | Air Squats |
+| **BJ** | Box Jumps |
+| **BJO** | Box Jump-Overs |
+| **BSO** | Box Step-Overs |
+| **BSU** | Box Step-Ups |
+| **BSUO** | Box Step-Up Overs |
+| **C&J** | Clean & Jerk |
+| **C&PP** | Clean & Push Press |
+| **DB** | Dumbbell |
+| **DL** | Deadlift(s) |
+| **DU** | Double-Unders |
+| **EMOM** | Every Minute On the Minute |
+| **FC** | Farmers Carry |
+| **FRL** | Front-Rack Lunges |
+| **FS** | Front Squats |
+| **HKR** | Hanging Knee Raises |
+| **HRP** | Hand-Release Push-ups |
+| **HSPU** | Handstand Push-ups |
+| **KTA** | Knees-to-Armpits |
+| **KTC** | Knees-to-Chest |
+| **KTE** | Knees-to-Elbows |
+| **L/R** | Left / Right |
+| **OH** | Overhead |
+| **PC** | Power Cleans |
+| **PP** | Push Presses |
+| **PS** | Power Snatches |
+| **PU** | Pull-ups |
+| **RFT** | Rounds For Time |
+| **RR** | Ring Rows |
+| **SC** | Squat Cleans |
+| **SU** | Sit-ups (or Single-Unders — context dependent) |
+| **T2B** | Toes-to-Bar |
+| **WW** | Wall Walks |
+
+**Notes on units:**
+- **m** = meters
+- **ft** = feet
+- **mi** = mile
+- **lb** = pounds
+- **min** / **:00** = minutes / seconds
+
+---
+
+*File updated with abbreviations list – April 30, 2026*
