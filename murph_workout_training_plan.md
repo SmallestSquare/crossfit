@@ -81,7 +81,6 @@
 ---
 
 **Source:** [CrossFit Murph Training Plan](https://www.crossfit.com/murph-workout-training-plan)  
-**File created for VS Code** – Open in VS Code and use **Ctrl+Shift+V** (or **Cmd+Shift+V** on Mac) for beautiful preview with table support.
 
 ---
 
